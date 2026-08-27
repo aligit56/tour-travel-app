@@ -67,3 +67,9 @@ export const footerLinks = [
   { heading: 'About', links: ['Our story', 'Meet the guides', 'Journal'] },
   { heading: 'Support', links: ['Contact us', 'FAQs', 'Travel insurance'] },
 ]
+
+export const testimonials = [
+  { quote: 'Every detail felt considered, but nothing felt over-planned.', name: 'Maya R.', trip: 'The Wild Coast' },
+  { quote: 'Our guide gave us the kind of Kyoto day we could never have found alone.', name: 'Daniel K.', trip: 'Forest & Fire' },
+  { quote: 'Small group, big memories. Roamwell made travel feel wonderfully human.', name: 'Sara A.', trip: 'Island Time' },
+]
